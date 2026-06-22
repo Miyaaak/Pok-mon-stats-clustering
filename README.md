@@ -52,7 +52,7 @@ Clustering analysis of Pokémon base stats using K-means and PCA.
 PCA によって 6 次元の種族値を 2 次元に圧縮し、クラスタリング結果を可視化した。  
 Plotly を用いることで、各ポケモン名をホバー表示でき、直感的な分析が可能となった。
 
-（ここに画像を貼る）
+![PCA Visualization](newplot.png)
 
 ---
 
