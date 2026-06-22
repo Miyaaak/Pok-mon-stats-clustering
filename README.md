@@ -27,7 +27,7 @@ Clustering analysis of Pokémon base stats using K-means and PCA.
 - StandardScalerによる標準化  
 - K-meansクラスタリング  
 - PCA（主成分分析）による2次元可視化  
-- **Plotly** によるインタラクティブな散布図生成  
+- Plotlyによるインタラクティブな散布図生成  
 
 ---
 
@@ -36,7 +36,7 @@ Clustering analysis of Pokémon base stats using K-means and PCA.
 しかし、k=2 では「強い／弱い」といった大まかな二分にしかならず、  
 ポケモンの特徴や役割を十分に捉えられない。
 
-一方で **k=4** を採用すると、PCA による可視化でクラスタ間の分離が明確になり、
+一方でk=4を採用すると、PCA による可視化でクラスタ間の分離が明確になり、
 
 - 高速アタッカー  
 - 耐久寄り  
